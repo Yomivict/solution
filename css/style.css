@@ -38,6 +38,33 @@ body {
   height: 100%;
 }
 
+/* .navbar {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.logo-text {
+  font-size: 22px;
+  text-transform: uppercase;
+  color: #11245A !important;
+}
+.navbar .nav-link {
+  font-size: 1px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  color: #E93B81;
+}
+
+a {
+  font-weight: 700;
+  transition: all 0.4s ease;
+  text-decoration: none;
+} */
+
+
+
 
 
 .container-fluid {
@@ -102,7 +129,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
   margin: 0 0 20px 0;
-  font-size: 20px;
+  font-size: 30px;
 }
 h2:hover{
   transform: scale(1.2);
@@ -195,7 +222,7 @@ h2:hover{
 }
 .fh5co-nav ul li a {
   position: relative;
-  font-size: 13px;
+  font-size: 15px;
   padding: 30px 20px;
   color: rgba(0, 0, 0, 0.8);
   -webkit-transition: 0.5s;
